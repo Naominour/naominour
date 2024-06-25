@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi Everyone!&type=waving&color=gradient&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone&fontSize=90)
+
 I've always been fascinated by the possibilities of 𝗔𝗜 and 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. I'm constantly amazed by how this technology is shaping the future. As someone who is driven and ambitious, I knew I wanted to be part of this field myself. ✨
 
 I started learning 𝗣𝘆𝘁𝗵𝗼𝗻 and studying machine learning concepts once I got to university. I loved figuring out how to apply these concepts to analyze data and build predictive models.
