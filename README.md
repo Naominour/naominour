@@ -1,4 +1,3 @@
-<img src="https://camo.githubusercontent.com/d11e5e1eb80f6898f740176d24937775a148ca540f130776dec9bdaf52e9b9ae/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d6772616469656e74266865696768743d3130" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=10" style="max-width: 100%;">
 I've always been fascinated by the possibilities of 𝗔𝗜 and 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. I'm constantly amazed by how this technology is shaping the future. As someone who is driven and ambitious, I knew I wanted to be part of this field myself. ✨
 
 I started learning 𝗣𝘆𝘁𝗵𝗼𝗻 and studying machine learning concepts once I got to university. I loved figuring out how to apply these concepts to analyze data and build predictive models.
