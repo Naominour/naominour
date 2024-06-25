@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#e8d7c8&height=300&section=header&text=Hi%20Everyone&fontSize=90)
 
 I've always been fascinated by the possibilities of 𝗔𝗜 and 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴. I'm constantly amazed by how this technology is shaping the future. As someone who is driven and ambitious, I knew I wanted to be part of this field myself. ✨
 
