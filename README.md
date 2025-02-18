@@ -26,3 +26,5 @@ Since then, I’ve dedicated myself to advancing my technical expertise and cont
 With a solid foundation in programming languages like 𝗣𝘆𝘁𝗵𝗼𝗻 and a deep understanding of 𝗠𝗟𝗢𝗽𝘀 practices, my goal is to build AI systems that are both advanced and meaningful, projects that push technology forward while remaining reliable, ethical, and truly beneficial in the real world. 
 If you’re looking for a dedicated engineer focused on AI, 𝗹𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁! I’m always excited to explore new opportunities and challenges in this field.✨
 
+![naominour's Stats](https://github-readme-stats.vercel.app/api?username=naominour&theme=calm&show_icons=true&hide_border=true&count_private=true)
+![naominour's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naominour&theme=calm&show_icons=true&hide_border=true&layout=compact)
